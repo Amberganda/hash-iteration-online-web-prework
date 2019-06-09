@@ -16,3 +16,6 @@ def select_winner(passengers)
 
     winner
 end
+
+def happy_birthday(birthday_kids)
+end
